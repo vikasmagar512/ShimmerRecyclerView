@@ -22,6 +22,7 @@ Pre-requisites
 ScreenShots
 --------------
 ![alt shimmer](https://raw.githubusercontent.com/vikasmagar512/ShimmerRecyclerView/master/art/shimmer.png)
+
 ![alt shimmer item](https://raw.githubusercontent.com/vikasmagar512/ShimmerRecyclerView/master/art/shimmer_upload.png)
 ![alt recycler item](https://raw.githubusercontent.com/vikasmagar512/ShimmerRecyclerView/master/art/list_item_upload.png)
 
