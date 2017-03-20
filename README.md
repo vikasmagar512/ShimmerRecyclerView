@@ -19,6 +19,13 @@ Pre-requisites
 - Android Build Tools v22.0.1
 - Android Support Repository r16 (for v22.2.1)
 
+ScreenShots
+--------------
+![alt shimmer](https://raw.githubusercontent.com/vikasmagar512/ShimmerRecyclerView/master/art/shimmer.png)
+
+![alt shimmer item](https://raw.githubusercontent.com/vikasmagar512/ShimmerRecyclerView/master/art/shimmer_upload.png)
+![alt recycler item](https://raw.githubusercontent.com/vikasmagar512/ShimmerRecyclerView/master/art/list_item_upload.png)
+
 License
 -------
 
