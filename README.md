@@ -19,7 +19,7 @@ Pre-requisites
 - Android Build Tools v22.0.1
 - Android Support Repository r16 (for v22.2.1)
 
-libraries
+Libraries
 --------------
 - compile 'com.github.bumptech.glide:glide:3.6.0'
 - compile 'de.hdodenhof:circleimageview:1.3.0'
