@@ -19,6 +19,12 @@ Pre-requisites
 - Android Build Tools v22.0.1
 - Android Support Repository r16 (for v22.2.1)
 
+libraries
+--------------
+- compile 'com.github.bumptech.glide:glide:3.6.0'
+- compile 'de.hdodenhof:circleimageview:1.3.0'
+- compile 'com.github.sharish:ShimmerRecyclerView:v1.0'
+
 ScreenShots
 --------------
 ![alt shimmer](https://raw.githubusercontent.com/vikasmagar512/ShimmerRecyclerView/master/art/shimmer.png)
