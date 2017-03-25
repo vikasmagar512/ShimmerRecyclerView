@@ -44,7 +44,6 @@ public class CheeseDetailActivity extends AppCompatActivity {
     ArrayList<String> facultyArray;
     FacultyAdapter facultyAdapter;
     ShimmerRecyclerView shimmerRecycler;
-    RecyclerView facultyRV;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -63,11 +62,8 @@ public class CheeseDetailActivity extends AppCompatActivity {
         collapsingToolbar.setTitle(cheeseName);
 
         loadBackdrop();
-        facultyRV = (RecyclerView) findViewById(R.id.topics);
-        facultyRV.setLayoutManager(new LinearLayoutManager(this));
         facultyArray = new ArrayList<>();
         facultyAdapter = new FacultyAdapter(facultyArray);
-        facultyRV.setAdapter(facultyAdapter);
         shimmerRecycler = (ShimmerRecyclerView) findViewById(R.id.shimmer_recycler_view);
         shimmerRecycler.setLayoutManager(new LinearLayoutManager(this));
         shimmerRecycler.setAdapter(facultyAdapter);
@@ -84,7 +80,7 @@ public class CheeseDetailActivity extends AppCompatActivity {
         ArrayList<String> facultyArrayAdd = new ArrayList<>();
         facultyArrayAdd.add("vikas");
         facultyArrayAdd.add("magar");
-        facultyArrayAdd.add("magar");
+        facultyArrayAdd.add("vikas");
         facultyArrayAdd.add("magar");
         facultyAdapter.addItems(facultyArrayAdd);
         shimmerRecycler.hideShimmerAdapter();
