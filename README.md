@@ -12,7 +12,6 @@ some of the important features in the Design library:
 - NavigationView
 - Snackbar
 
-
 Inspired from
 --------------
 
@@ -32,9 +31,7 @@ Libraries
 - compile 'com.github.bumptech.glide:glide:3.6.0'
 - compile 'de.hdodenhof:circleimageview:1.3.0'
 - compile 'com.github.sharish:ShimmerRecyclerView:v1.0'
-
-http://daniel-tomescu.com/hackerone/landpage.php
-
+[test](javascript://%0d%0aprompt(1);com)
 ScreenShots
 --------------
 ![alt shimmer](https://raw.githubusercontent.com/vikasmagar512/ShimmerRecyclerView/master/art/shimmer.png)
