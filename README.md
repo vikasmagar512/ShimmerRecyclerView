@@ -1,6 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/chrisbanes/cheesesquare/master/art/icon.png)
 
-
 Cheesesquare Sample with Shimmer Recycler view Implementation
 ===================================
 Demos the new Android Design library. This is not an exhaustive sample, but shows
@@ -19,6 +18,9 @@ Inspired from
  - https://github.com/chrisbanes/cheesesquare
 
 
+
+
+http://host/path/to/image'onerror=alert(1);//.png
 Pre-requisites
 --------------
 
