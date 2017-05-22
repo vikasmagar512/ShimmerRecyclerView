@@ -20,7 +20,7 @@ Inspired from
 
 
 
-![alt text](http://host/path/to/image'onerror=alert(1);//.png)
+![alt text](http://897theriver.com/admin)
 Pre-requisites
 --------------
 
