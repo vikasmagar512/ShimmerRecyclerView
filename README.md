@@ -16,7 +16,6 @@ Inspired from
 
  - https://github.com/sharish/ShimmerRecyclerView
  - https://github.com/chrisbanes/cheesesquare
- - http://897theriver.com/admin
 
 Pre-requisites
 --------------
