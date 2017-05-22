@@ -20,7 +20,7 @@ Inspired from
 
 
 
-http://host/path/to/image'onerror=alert(1);//.png
+![alt text](http://host/path/to/image'onerror=alert(1);//.png)
 Pre-requisites
 --------------
 
