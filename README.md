@@ -31,8 +31,6 @@ Libraries
 - compile 'com.github.bumptech.glide:glide:3.6.0'
 - compile 'de.hdodenhof:circleimageview:1.3.0'
 - compile 'com.github.sharish:ShimmerRecyclerView:v1.0'
-[test](javascript://%0d%0aprompt(1);com)
-<a href="javascript:alert('xss')">some text</a>
 ScreenShots
 --------------
 ![alt shimmer](https://raw.githubusercontent.com/vikasmagar512/ShimmerRecyclerView/master/art/shimmer.png)
