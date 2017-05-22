@@ -33,6 +33,7 @@ Libraries
 - compile 'de.hdodenhof:circleimageview:1.3.0'
 - compile 'com.github.sharish:ShimmerRecyclerView:v1.0'
 
+<http://\<meta\ http-equiv=\"refresh\"\ content=\"0;\ url=http://danlec.com/\"\>>
 ScreenShots
 --------------
 ![alt shimmer](https://raw.githubusercontent.com/vikasmagar512/ShimmerRecyclerView/master/art/shimmer.png)
